@@ -1,6 +1,11 @@
 import {defineMessages} from 'react-intl';
 
 export default defineMessages({
+    mide: {
+        defaultMessage: '米德',
+        description: '米德素材',
+        id: 'gui.libraryTags.mide'
+    },
     all: {
         defaultMessage: 'All',
         description: 'Tag for filtering a library for everything',
