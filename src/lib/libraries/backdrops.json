@@ -1,21 +1,12 @@
 [
     {
-        "name": "Arctic",
-        "tags": [
-            "outdoors",
-            "cold",
-            "north pole",
-            "south pole",
-            "ice",
-            "antarctica",
-            "robert hunter",
-            "mide"
-        ],
-        "assetId": "67e0db3305b3c8bac3a363b1c428892e",
         "bitmapResolution": 2,
-        "dataFormat": "png",
-        "md5ext": "67e0db3305b3c8bac3a363b1c428892e.png",
-        "rotationCenterX": 480,
-        "rotationCenterY": 360
+        "assetId": "e734af3bf2cdf04047608a6888971c83",
+        "dataFormat": "jpg",
+        "name": "猴子香蕉",
+        "md5ext": "e734af3bf2cdf04047608a6888971c83.jpg",
+        "tags": [
+            "mide"
+        ]
     }
 ]
