@@ -11,9 +11,6 @@ describe('MonitorListComponent', () => {
             monitors: {},
             savedMonitorPositions: {}
         },
-        toolbox: {
-            toolboxXML: ''
-        },
         vm: {
             runtime: {
                 requestUpdateMonitor: () => {},
