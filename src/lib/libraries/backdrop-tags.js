@@ -1,5 +1,6 @@
 import messages from './tag-messages.js';
 export default [
+    {tag: 'mide', intlLabel: messages.mide},
     {tag: 'fantasy', intlLabel: messages.fantasy},
     {tag: 'music', intlLabel: messages.music},
     {tag: 'sports', intlLabel: messages.sports},
@@ -7,6 +8,5 @@ export default [
     {tag: 'indoors', intlLabel: messages.indoors},
     {tag: 'space', intlLabel: messages.space},
     {tag: 'underwater', intlLabel: messages.underwater},
-    {tag: 'mide', intlLabel: messages.mide},
     {tag: 'patterns', intlLabel: messages.patterns}
 ];
