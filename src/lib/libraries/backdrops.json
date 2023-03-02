@@ -1,21 +1,5 @@
 [
     {
-        "englishName": "001",
-        "name": "test001",
-        "type": 1,
-        "url": "/scratch/3fc1d210b982eac51814f2827a0246a8.jpg",
-        "md5ext": "3fc1d210b982eac51814f2827a0246a8.jpg",
-        "status": 2,
-        "tags": [
-            "Sports"
-        ],
-        "info": [
-            610,
-            610,
-            2
-        ]
-    },
-    {
         "englishName": "xingkongb",
         "name": "星空b",
         "type": 1,

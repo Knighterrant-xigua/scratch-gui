@@ -1,21 +1,5 @@
 [
     {
-        "englishName": "002",
-        "name": "test002",
-        "type": 2,
-        "url": "/scratch/3fc1d210b982eac51814f2827a0246a8.jpg",
-        "md5ext": "3fc1d210b982eac51814f2827a0246a8.jpg",
-        "status": 2,
-        "tags": [
-            "Sports"
-        ],
-        "info": [
-            610,
-            610,
-            2
-        ]
-    },
-    {
         "englishName": "haishi",
         "name": "海狮",
         "type": 2,

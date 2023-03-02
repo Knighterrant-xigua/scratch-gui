@@ -1,43 +1,5 @@
 [
     {
-        "mideuuid": "f004949502d34f91aac1b08a259b8a68",
-        "englishName": "sdasda",
-        "variables": {},
-        "comments": {},
-        "visible": true,
-        "blocks": {},
-        "isStage": false,
-        "broadcasts": {},
-        "costumes": [
-            {
-                "englishName": "002",
-                "bitmapResolution": 2,
-                "assetId": "3fc1d210b982eac51814f2827a0246a8",
-                "dataFormat": "jpg",
-                "name": "test002",
-                "md5ext": "3fc1d210b982eac51814f2827a0246a8.jpg",
-                "rotationCenterY": 305,
-                "url": "/scratch/3fc1d210b982eac51814f2827a0246a8.jpg",
-                "rotationCenterX": 305
-            }
-        ],
-        "tags": [
-            "Sports"
-        ],
-        "volume": 100,
-        "rotationStyle": "left-right",
-        "size": 100,
-        "isDraggable": true,
-        "sounds": [],
-        "lists": {},
-        "name": "test002",
-        "x": 0,
-        "layerOrder": 1,
-        "y": 0,
-        "status": null,
-        "direction": 90
-    },
-    {
         "mideuuid": "a7c316a8e8494f9a95810fbf1c40119e",
         "englishName": "denglonglaoren",
         "variables": {},
